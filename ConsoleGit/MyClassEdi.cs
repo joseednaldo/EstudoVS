@@ -8,5 +8,6 @@ namespace ConsoleGit
 {
     class MyClassEdi
     {
+         Console.WriteLine("nova class");
     }
 }
